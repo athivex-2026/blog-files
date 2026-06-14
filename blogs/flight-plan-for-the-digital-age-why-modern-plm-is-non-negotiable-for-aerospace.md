@@ -4,10 +4,10 @@ title: >-
   Aerospace
 slug: flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace
 date: '2026-06-09T18:06:07.479Z'
-updatedAt: '2026-06-09T18:06:07.479Z'
-updatedBy: athi Vex
+updatedAt: '2026-06-14T12:26:03.295Z'
+updatedBy: Abi Nandhan
 updatedByPhoto: >-
-  https://lh3.googleusercontent.com/a/ACg8ocIMeEw0dphZ6QUr3wUhYtuZSSeWWo3IcZ5Z_tW_OIxhuZAhqQ=s96-c
+  https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
 description: >-
   The aerospace industry has always operated at the absolute frontier of human
   engineering. But today, the challenge isn’t just about making aircraft faster,
@@ -43,6 +43,7 @@ seoKeywords:
   - lifecycle
   - virtual
   - process
+status: draft
 ---
 
 ![1781028231075 Gemini Generated Image lae8galae8galae8](https://raw.githubusercontent.com/athivex-2026/blog-files/main/assets/images/1781028231075-Gemini_Generated_Image_lae8galae8galae8.png)
