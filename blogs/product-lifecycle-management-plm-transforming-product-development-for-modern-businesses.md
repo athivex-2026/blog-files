@@ -5,7 +5,7 @@ title: >-
 slug: >-
   product-lifecycle-management-plm-transforming-product-development-for-modern-businesses
 date: '2026-06-09T13:34:00.909Z'
-updatedAt: '2026-06-14T12:50:26.202Z'
+updatedAt: '2026-06-14T16:25:36.251Z'
 updatedBy: Abi Nandhan
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
