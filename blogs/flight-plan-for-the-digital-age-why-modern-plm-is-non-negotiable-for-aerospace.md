@@ -4,7 +4,7 @@ title: >-
   Aerospace
 slug: flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace
 date: '2026-06-09T18:06:07.479Z'
-updatedAt: '2026-06-14T12:26:03.295Z'
+updatedAt: '2026-06-14T12:56:55.716Z'
 updatedBy: Abi Nandhan
 updatedByPhoto: >-
   https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
