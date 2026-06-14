@@ -1,9 +1,45 @@
 [
   {
+    "title": "Flight Plan for the Digital Age: Why Modern PLM is Non-Negotiable for Aerospace",
+    "slug": "flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace",
+    "date": "2026-06-09T18:06:07.479Z",
+    "updatedAt": "2026-06-14T12:49:59.192Z",
+    "updatedBy": "Abi Nandhan",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
+    "description": "The aerospace industry has always operated at the absolute frontier of human engineering. But today, the challenge isn’t just about making aircraft faster, ligh",
+    "tags": [
+      "modern",
+      "engineering",
+      "aerospace",
+      "product",
+      "physical",
+      "digital",
+      "cloud",
+      "lifecycle"
+    ],
+    "cover": "https://raw.githubusercontent.com/athivex-2026/blog-files/main/assets/images/1781028231075-Gemini_Generated_Image_lae8galae8galae8.png",
+    "canonical": "https://athivex.com//blog/flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace",
+    "seoTitle": "Flight Plan for the Digital Age: Why Modern PLM is Non-Negotiable for Aerospace",
+    "seoDescription": "The aerospace industry has always operated at the absolute frontier of human engineering. But today, the challenge isn’t just about making aircraft faster, ligh",
+    "seoKeywords": [
+      "modern",
+      "engineering",
+      "aerospace",
+      "product",
+      "physical",
+      "digital",
+      "cloud",
+      "lifecycle",
+      "virtual",
+      "process"
+    ],
+    "status": "published"
+  },
+  {
     "title": "Product Lifecycle Management (PLM): Transforming Product Development for Modern Businesses",
     "slug": "product-lifecycle-management-plm-transforming-product-development-for-modern-businesses",
     "date": "2026-06-09T13:34:00.909Z",
-    "updatedAt": "2026-06-14T12:11:47.184Z",
+    "updatedAt": "2026-06-14T12:50:26.202Z",
     "updatedBy": "Abi Nandhan",
     "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
     "description": "In today's fast-paced digital world, businesses must innovate quickly while maintaining quality and reducing costs. Product Lifecycle Management (PLM) is a stra",
@@ -34,41 +70,5 @@
       "businesses"
     ],
     "status": "published"
-  },
-  {
-    "title": "Flight Plan for the Digital Age: Why Modern PLM is Non-Negotiable for Aerospace",
-    "slug": "flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace",
-    "date": "2026-06-09T18:06:07.479Z",
-    "updatedAt": "2026-06-14T12:26:03.295Z",
-    "updatedBy": "Abi Nandhan",
-    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
-    "description": "The aerospace industry has always operated at the absolute frontier of human engineering. But today, the challenge isn’t just about making aircraft faster, ligh",
-    "tags": [
-      "modern",
-      "engineering",
-      "aerospace",
-      "product",
-      "physical",
-      "digital",
-      "cloud",
-      "lifecycle"
-    ],
-    "cover": "https://raw.githubusercontent.com/athivex-2026/blog-files/main/assets/images/1781028231075-Gemini_Generated_Image_lae8galae8galae8.png",
-    "canonical": "https://athivex.com//blog/flight-plan-for-the-digital-age-why-modern-plm-is-non-negotiable-for-aerospace",
-    "seoTitle": "Flight Plan for the Digital Age: Why Modern PLM is Non-Negotiable for Aerospace",
-    "seoDescription": "The aerospace industry has always operated at the absolute frontier of human engineering. But today, the challenge isn’t just about making aircraft faster, ligh",
-    "seoKeywords": [
-      "modern",
-      "engineering",
-      "aerospace",
-      "product",
-      "physical",
-      "digital",
-      "cloud",
-      "lifecycle",
-      "virtual",
-      "process"
-    ],
-    "status": "draft"
   }
 ]
