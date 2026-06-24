@@ -5,10 +5,10 @@ title: >-
 slug: >-
   product-lifecycle-management-plm-transforming-product-development-for-modern-businesses
 date: '2026-06-09T13:34:00.909Z'
-updatedAt: '2026-06-14T18:40:43.779Z'
-updatedBy: Abi Nandhan
+updatedAt: '2026-06-24T18:52:25.959Z'
+updatedBy: Santhosh Shanmugam
 updatedByPhoto: >-
-  https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c
+  https://lh3.googleusercontent.com/a/ACg8ocJbsQQd9QUvAQveTOEXgyH1WVnsYUDrhvRiE0L6npOVbG0wwYWJ=s96-c
 description: >-
   In today's fast-paced digital world, businesses must innovate quickly while
   maintaining quality and reducing costs. Product Lifecycle Management (PLM) is
