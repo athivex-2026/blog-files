@@ -70,5 +70,41 @@
       "businesses"
     ],
     "status": "published"
+  },
+  {
+    "title": "Product Lifecycle Management (PLM) in the Aerospace Industry: Transforming Aircraft Development",
+    "slug": "product-lifecycle-management-plm-in-the-aerospace-industry-transforming-aircraft-development",
+    "date": "2026-08-06T12:07:13.575Z",
+    "updatedAt": "2026-08-06T12:07:13.575Z",
+    "updatedBy": "Abi Nandhan",
+    "updatedByPhoto": "https://lh3.googleusercontent.com/a/ACg8ocJAUUPzTi60MvCgSoJr6NNQgngYpmPMeM87qWxFdDMQ056DCF6zGw=s96-c",
+    "description": "he aerospace industry is one of the most complex and highly regulated sectors in the world. From commercial passenger aircraft to military jets, satellites, and unmanned aerial vehicles (UAVs), every product undergoes years of design, testing, certification, ",
+    "tags": [
+      "product",
+      "manufacturing",
+      "engineering",
+      "aircraft",
+      "maintenance",
+      "aerospace",
+      "design",
+      "lifecycle"
+    ],
+    "cover": "https://raw.githubusercontent.com/athivex-2026/blog-files/main/assets/images/1786017750977-ChatGPT-Image-Aug-6,-2026,-05_23_31-PM.webp",
+    "canonical": "https://athivex.com//blog/product-lifecycle-management-plm-in-the-aerospace-industry-transforming-aircraft-development",
+    "seoTitle": "Product Lifecycle Management (PLM) in the Aerospace Industry: Transforming Aircraft Development",
+    "seoDescription": "he aerospace industry is one of the most complex and highly regulated sectors in the world. From commercial passenger aircraft to military jets, satellites, and unmanned aerial vehicles (UAVs), every product undergoes years of design, testing, certification, ",
+    "seoKeywords": [
+      "product",
+      "manufacturing",
+      "engineering",
+      "aircraft",
+      "maintenance",
+      "aerospace",
+      "design",
+      "lifecycle",
+      "digital",
+      "systems"
+    ],
+    "status": "published"
   }
 ]
